@@ -2,6 +2,7 @@
 title: "Research"
 date: 2022-03-23T18:51:22-04:00
 draft: false
+featured_image: /images/research_cancer_thumbnails.jpg
 ---
 
 ## Research

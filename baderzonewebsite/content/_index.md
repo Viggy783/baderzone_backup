@@ -1,5 +1,6 @@
 ---
 title: "Bader Lab"
+description: "Joel S. Bader and Lab, Johns Hopkins University"
 date: 2022-03-23T17:55:23-04:00
 draft: false
 featured_image: /images/research_cancer_thumbnails.jpg
