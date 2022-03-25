@@ -1,3 +1,11 @@
 [submodule "baderzonewebsite/themes/ananke"]
 	path = baderzonewebsite/themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "public"]
+	path = public
+	url = https://github.com/Viggy783/baderzone.github.io.git
+	branch = main
+[submodule "baderzonewebsite/public"]
+	path = baderzonewebsite/public
+	url = https://github.com/Viggy783/baderzone.github.io.git
+	branch = main
