@@ -13,7 +13,6 @@ featured_image: /images/research_cancer_thumbnails.jpg
 
 Living systems respond to their environments. Understanding cellular responses is important for diseases caused by aberrant responses and for engineering of new life with desired properties. This course develops quantitative models for cellular response functions. It begins with linear response models for protein signal transduction, including an introduction to complex analysis and contour integrals and examination of the MAP kinase signaling cascade. Laplace transforms are related to characteristic functions and moment-generating functions from probability theory. Next, non-linear effects from saturation and cooperative are introduced in the context of transcriptional regulation. Continuous models are related to stochastic dynamics for small numbers of regulatory proteins, with applications to Delta-Notch signaling and lateral inhibition. Finally, diffusion-based models are introduced for long-range patterning and morphogenesis.
 
--
 
 ### Previously Taught
 
