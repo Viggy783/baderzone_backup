@@ -1,4 +1,4 @@
-baseURL = 'http://baderzone.github.io/'
+baseURL = 'https://baderzone.github.io/'
 languageCode = 'en-us'
 title = 'Bader Lab'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
